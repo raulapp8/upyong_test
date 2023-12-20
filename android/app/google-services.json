@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713162264634",
+    "project_id": "upyoung-bb219",
+    "storage_bucket": "upyoung-bb219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713162264634:android:5d829446ccd0297a386503",
+        "android_client_info": {
+          "package_name": "com.example.upyong_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713162264634-k4lnmj7g7dqv2spna3s4g12e6i82mk5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvhKIwgj3cRwt4b4FDZfFR-Wb1oPXQpWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713162264634-k4lnmj7g7dqv2spna3s4g12e6i82mk5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
